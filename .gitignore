@@ -103,3 +103,13 @@ venv.bak/
 # mypy
 .mypy_cache/
 .DS_Store
+
+# my_hw_data
+my_hw/.vscode
+my_hw/HW1_Regression/models
+my_hw/HW1_Regression/runs
+my_hw/HW1_Regression/*.csv
+
+my_hw/HW2_Classification/libriphone
+my_hw/HW2_Classification/*.csv
+my_hw/HW2_Classification/*.ckpt
