@@ -113,3 +113,8 @@ my_hw/HW1_Regression/*.csv
 my_hw/HW2_Classification/libriphone
 my_hw/HW2_Classification/*.csv
 my_hw/HW2_Classification/*.ckpt
+
+my_hw/HW3_CNN/food11
+my_hw/HW3_CNN/runs
+my_hw/HW3_CNN/models
+my_hw/HW3_CNN/*.csv
