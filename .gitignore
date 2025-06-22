@@ -118,3 +118,7 @@ my_hw/HW3_CNN/food11
 my_hw/HW3_CNN/runs
 my_hw/HW3_CNN/models
 my_hw/HW3_CNN/*.csv
+
+my_hw/HW4_Self-Attention/Dataset
+my_hw/HW4_Self-Attention/models
+my_hw/HW4_Self-Attention/runs
