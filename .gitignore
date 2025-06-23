@@ -106,6 +106,8 @@ venv.bak/
 
 # my_hw_data
 my_hw/.vscode
+runs
+
 my_hw/HW1_Regression/models
 my_hw/HW1_Regression/runs
 my_hw/HW1_Regression/*.csv
@@ -122,3 +124,4 @@ my_hw/HW3_CNN/*.csv
 my_hw/HW4_Self-Attention/Dataset
 my_hw/HW4_Self-Attention/models
 my_hw/HW4_Self-Attention/runs
+my_hw/HW4_Self-Attention/*.csv
